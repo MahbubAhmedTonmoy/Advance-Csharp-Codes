@@ -1,0 +1,11 @@
+C:\Users\mahbub\Desktop\Advance CSharp\obj\Debug\netcoreapp2.2\Advance CSharp.csprojAssemblyReference.cache
+C:\Users\mahbub\Desktop\Advance CSharp\obj\Debug\netcoreapp2.2\Advance CSharp.csproj.CoreCompileInputs.cache
+C:\Users\mahbub\Desktop\Advance CSharp\obj\Debug\netcoreapp2.2\Advance CSharp.AssemblyInfoInputs.cache
+C:\Users\mahbub\Desktop\Advance CSharp\obj\Debug\netcoreapp2.2\Advance CSharp.AssemblyInfo.cs
+C:\Users\mahbub\Desktop\Advance CSharp\bin\Debug\netcoreapp2.2\Advance CSharp.deps.json
+C:\Users\mahbub\Desktop\Advance CSharp\bin\Debug\netcoreapp2.2\Advance CSharp.runtimeconfig.json
+C:\Users\mahbub\Desktop\Advance CSharp\bin\Debug\netcoreapp2.2\Advance CSharp.runtimeconfig.dev.json
+C:\Users\mahbub\Desktop\Advance CSharp\bin\Debug\netcoreapp2.2\Advance CSharp.dll
+C:\Users\mahbub\Desktop\Advance CSharp\bin\Debug\netcoreapp2.2\Advance CSharp.pdb
+C:\Users\mahbub\Desktop\Advance CSharp\obj\Debug\netcoreapp2.2\Advance CSharp.dll
+C:\Users\mahbub\Desktop\Advance CSharp\obj\Debug\netcoreapp2.2\Advance CSharp.pdb
